@@ -1,2 +1,2 @@
-# Text-Similarity-LDA
+# Text-Similarity-LDA-WMD
  
